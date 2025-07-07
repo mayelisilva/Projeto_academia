@@ -1,0 +1,14 @@
+C:\Users\426077624\Documents\Projeto_Academia\bin\Debug\net8.0\Projeto_Academia.exe
+C:\Users\426077624\Documents\Projeto_Academia\bin\Debug\net8.0\Projeto_Academia.deps.json
+C:\Users\426077624\Documents\Projeto_Academia\bin\Debug\net8.0\Projeto_Academia.runtimeconfig.json
+C:\Users\426077624\Documents\Projeto_Academia\bin\Debug\net8.0\Projeto_Academia.dll
+C:\Users\426077624\Documents\Projeto_Academia\bin\Debug\net8.0\Projeto_Academia.pdb
+C:\Users\426077624\Documents\Projeto_Academia\obj\Debug\net8.0\Projeto_Academia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\426077624\Documents\Projeto_Academia\obj\Debug\net8.0\Projeto_Academia.AssemblyInfoInputs.cache
+C:\Users\426077624\Documents\Projeto_Academia\obj\Debug\net8.0\Projeto_Academia.AssemblyInfo.cs
+C:\Users\426077624\Documents\Projeto_Academia\obj\Debug\net8.0\Projeto_Academia.csproj.CoreCompileInputs.cache
+C:\Users\426077624\Documents\Projeto_Academia\obj\Debug\net8.0\Projeto_Academia.dll
+C:\Users\426077624\Documents\Projeto_Academia\obj\Debug\net8.0\refint\Projeto_Academia.dll
+C:\Users\426077624\Documents\Projeto_Academia\obj\Debug\net8.0\Projeto_Academia.pdb
+C:\Users\426077624\Documents\Projeto_Academia\obj\Debug\net8.0\Projeto_Academia.genruntimeconfig.cache
+C:\Users\426077624\Documents\Projeto_Academia\obj\Debug\net8.0\ref\Projeto_Academia.dll
